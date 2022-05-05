@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "username": "John Smith",
+    "message": "siin on mingi tekst, mida kasutaja ise kirjutab ja mis talle meeldib",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+  {
+    "id": 2,
+    "username": "Jane Smith",
+    "message": "siin on mingi tekst, mida kasutaja ise kirjutab ja mis talle meeldib",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+  {
+    "id": 3,
+    "username": "Joe Smith",
+    "message": "siin on mingi tekst, mida kasutaja ise kirjutab ja mis talle meeldib",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+  {
+    "id": 4,
+    "username": "June Smith",
+    "message": "siin on mingi tekst, mida kasutaja ise kirjutab ja mis talle meeldib",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+  {
+    "id": 5,
+    "username": "Jake Smith",
+    "message": "siin on mingi tekst, mida kasutaja ise kirjutab ja mis talle meeldib",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+
+  {
+    "id": 6,
+    "username": "July Smith",
+    "message": "siin on mingi tekst, mida kasutaja ise kirjutab ja mis talle meeldib",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+
+  {
+    "id": 7,
+    "username": "Jim Smith",
+    "message": "siin on mingi tekst, mida kasutaja ise kirjutab ja mis talle meeldib",
+    "date": "2021-02-01T20:30:52.123Z"
+  },
+
+  {
+    "id": 8,
+    "username": "James Smith",
+    "message": "siin on mingi tekst, mida kasutaja ise kirjutab ja mis talle meeldib",
+    "date": "2021-02-01T20:30:52.123Z"
+  }
+]
